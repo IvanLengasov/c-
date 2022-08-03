@@ -1,0 +1,15 @@
+/Users/ivan911/Desktop/Test1/example1/bin/Debug/net6.0/example1
+/Users/ivan911/Desktop/Test1/example1/bin/Debug/net6.0/example1.deps.json
+/Users/ivan911/Desktop/Test1/example1/bin/Debug/net6.0/example1.runtimeconfig.json
+/Users/ivan911/Desktop/Test1/example1/bin/Debug/net6.0/example1.dll
+/Users/ivan911/Desktop/Test1/example1/bin/Debug/net6.0/example1.pdb
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.csproj.AssemblyReference.cache
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.AssemblyInfoInputs.cache
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.AssemblyInfo.cs
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.csproj.CoreCompileInputs.cache
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.dll
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/refint/example1.dll
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.pdb
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/example1.genruntimeconfig.cache
+/Users/ivan911/Desktop/Test1/example1/obj/Debug/net6.0/ref/example1.dll
